@@ -6,7 +6,7 @@ A cross-lingual phishing email detection system combining stylometric features (
 
 - **SpaPhish**: 1,395 real emails (731 phishing, 664 legitimate), triple-annotated with persuasion labels
 - **Multilingual smoke-test**: 15 synthetic rows (EN/ES/PT) for pipeline validation
-- [Detailed provenance](https://github.com/yourusername/yourrepo)
+- [Detailed provenance](https://github.com/raniaemran/phishing-detector)
 
 ## Features
 
